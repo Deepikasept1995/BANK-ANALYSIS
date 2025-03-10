@@ -40,5 +40,6 @@ Tools & Technologies
 	•	Predictive analytics for loan default probability.
 	•	Advanced drill-down capabilities for deeper analysis.
  ## DASHBOARD SCREENSHOT
-![BANK ANALYSIS DASHBOARD} https://github.com/Deepikasept1995/BANK-ANALYSIS/blob/main/Screenshot%202025-03-10%20121321.png?raw=true
+![image](https://github.com/user-attachments/assets/5f3f899c-3297-4267-b36d-cf273eecc160)
+
 
