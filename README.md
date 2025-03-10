@@ -39,3 +39,6 @@ Tools & Technologies
 	•	Integration with real-time data sources.
 	•	Predictive analytics for loan default probability.
 	•	Advanced drill-down capabilities for deeper analysis.
+ ## DASHBOARD SCREENSHOT
+! [BANK ANALYSIS DASHBOARD}( Screenshot 2025-03-10 121321.png)
+
