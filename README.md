@@ -41,5 +41,7 @@ Tools & Technologies
 	•	Advanced drill-down capabilities for deeper analysis.
  ## DASHBOARD SCREENSHOT
 ![image](https://github.com/user-attachments/assets/5f3f899c-3297-4267-b36d-cf273eecc160)
+![image](https://github.com/user-attachments/assets/7fb3d63a-4c83-4e13-ad75-cd9d3ca476ac)
+
 
 
